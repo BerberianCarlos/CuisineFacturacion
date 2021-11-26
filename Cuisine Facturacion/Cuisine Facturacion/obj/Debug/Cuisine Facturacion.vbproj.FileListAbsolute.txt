@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\bin\Debug\Cuisine Facturacion.exe.config
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\bin\Debug\Cuisine Facturacion.exe
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\bin\Debug\Cuisine Facturacion.pdb
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\bin\Debug\Cuisine Facturacion.xml
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\obj\Debug\WindowsApplication1.FormRecibo.resources
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\obj\Debug\WindowsApplication1.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\obj\Debug\Cuisine Facturacion.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\obj\Debug\Cuisine Facturacion.exe
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\obj\Debug\Cuisine Facturacion.xml
+D:\Documents\Visual Studio 2012\Projects\Cuisine Facturacion\Cuisine Facturacion\obj\Debug\Cuisine Facturacion.pdb
